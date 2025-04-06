@@ -4,8 +4,11 @@
       "branch": "version-15"
     },
     {
-      "url": "https://github.com/frappe/lending.git",
-      "branch": "develop"
+      "url": "https://github.com/frappe/hrms.git",
+      "branch": "version-15"
+    },
+    {
+      "url": "https://github.com/frappe/print_designer.git",
+      "branch": "main"
     }
-   
   ]
