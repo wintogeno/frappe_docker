@@ -5,10 +5,10 @@
     },
     {
       "url": "https://github.com/frappe/hrms.git",
-      "branch": "develop"
+      "branch": "version-15"
     },
     {
       "url": "https://github.com/frappe/print_designer.git",
-      "branch": "develop"
+      "branch": "main"
     }
   ]
